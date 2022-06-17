@@ -8,8 +8,7 @@ tags:
   - readability
   - standard
   - random
-header:
-    img: "/assets/images/nokia_216px_x_216px.png"
+image: "/assets/images/nokia_216px_x_216px.png"
 
 ---
 This is a test that never ends. We do it on and on my friends.
