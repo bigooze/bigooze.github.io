@@ -16,7 +16,7 @@
 title: ooze / headless man-horse / portfolio
 email: headlessmanhorse@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is simultaneously a portfolio and a space where I post writing and other random projects or wild ideas I get.
+  This is a portfolio and a space where I post writing and other random projects or wild ideas I get.
 twitter_username: username
 github_username: bigooze
 minimal_mistakes_skin: dark
@@ -80,7 +80,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      show_date: true
+      date_format: "%Y-%m-%d"
+      read_time: false
       comments: false
       share: false
       related: true
@@ -92,6 +94,8 @@ defaults:
       layout: single
       author_profile: true
 
+search: true
+logo: "/assets/images/HMH_Icon.png"
 category_archive:
   type: liquid
   path: /categories/
