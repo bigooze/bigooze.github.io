@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
-layout: single
+title: Portfolio
+layout: collection
 permalink: /portfolio/
-author_profile: true
+collection: portfolio
+entries_layout: grid
 ---
-This is where a portfolio would go, if I uploaded all of the images
