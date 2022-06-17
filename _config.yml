@@ -86,6 +86,8 @@ defaults:
       comments: false
       share: false
       related: true
+      header:
+        image: /assets/images/shirtlessAtComputer_500-384.png
   # _pages
   - scope:
       path: "_pages"
@@ -102,3 +104,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
