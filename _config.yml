@@ -64,8 +64,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    
+    - label: "Red Sands Meetup"
+      icon: "/assets/images/red_sands_logos-red.png"
+      url: "https://www.meetup.com/redsands/"
 
 
+favicon: "/assets/images/H_Icon (Custom).png"
 footer:
   links:
     - label: "GitHub"
@@ -86,8 +91,7 @@ defaults:
       comments: false
       share: false
       related: true
-      header:
-        image: "/assets/images/shirtlessAtComputer_500-384.png"
+    
   # _pages
   - scope:
       path: "_pages"
@@ -95,7 +99,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+favicon: "/assets/images/HMH_Icon.png"
 search: true
 logo: "/assets/images/HMH_Icon.png"
 category_archive:
