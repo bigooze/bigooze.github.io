@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "ooze"
-  avatar : "slimer.png"
+  avatar : "/assets/images/slimer.png"
   bio    : "started from the sewer now i'm here."
   links:
 
