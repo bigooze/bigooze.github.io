@@ -87,7 +87,7 @@ defaults:
       share: false
       related: true
       header:
-        image: /assets/images/shirtlessAtComputer_500-384.png
+        image: "/assets/images/shirtlessAtComputer_500-384.png"
   # _pages
   - scope:
       path: "_pages"
