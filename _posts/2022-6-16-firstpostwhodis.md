@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 # Yo dawg this is a test
-Here's the text that would go along with that. Also, maybe check out [slimer](https://github.com/bigooze/bigooze.github.io/blob/master/assets/images/slimer.png)
+Here's the text that would go along with that. Also, maybe check out ![slimer](/assets/images/slimer.png)
 
 <!--more--> This is an excerpt that goes from my first post homie
 <!--more-->
