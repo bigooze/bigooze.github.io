@@ -1,4 +1,7 @@
-# Minimal Mistakes remote theme starter
+# I'm trying to learn about web design for the first time and renew my portfolio
+Basically I'm a n00b but learning is fun! And because I'm not on social media, I needed a landing page for people to review my work, in the random-ass-offchance I got a referral or something.
+
+## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
