@@ -11,6 +11,8 @@ tags:
 # Yo dawg this is a test
 Here's the text that would go along with that. Also, maybe check out ![slimer](/assets/images/slimer.png)
 
-<!--more--> This is an excerpt that goes from my first post homie
-<!--more-->
+<!--more-->  
+
+ This is an excerpt that goes from my first post homie
+
 Does that end the excerpt?
