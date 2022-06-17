@@ -70,7 +70,7 @@ author:
       url: "https://www.meetup.com/redsands/"
 
 
-favicon: "/assets/images/H_Icon (Custom).png"
+
 footer:
   links:
     - label: "GitHub"
@@ -108,7 +108,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-favicon: "/assets/images/HMH_Icon.png"
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 search: true
 logo: "/assets/images/HMH_Icon.png"
 category_archive:
