@@ -1,5 +1,7 @@
 # I'm trying to learn about web design for the first time and renew my portfolio
-Basically I'm a n00b trying to learn at a turtle's pace... And because I'm not on social media, I needed a landing page for people to review my work, in the random-ass-offchance I got a referral or something. I followed a bunch of tutorials to learn the basics of Ruby so that I could learn the basics of Jekyll and Github Pages. Never used the command line or git/github before, but here we are! Here's the Jekyll theme I used with zero variations on the dark skin:
+Basically I'm a n00b trying to learn at a turtle's pace. And I'm not on social media, so I needed a landing page for people to review my work in the random-ass-offchance someone wanted to do that. I also always sort of dreamed about making parser games, and figured it's good to learn the basics of web design, git, hosting, and dip my toes into programming languages. I always thought I was pretty tech savvy until I followed some Jekyll/Ruby/Github tutorials "for absolute beginners..."  Never used the command line or git/github before, but here we are!
+
+Here's the Jekyll theme I used with zero variations on the dark skin:
 
 
 ## Minimal Mistakes remote theme starter
