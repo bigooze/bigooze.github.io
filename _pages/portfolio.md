@@ -3,15 +3,15 @@ permalink: /portfolio/
 title: "The Portfolio"
 excerpt: "But for what?"
 header:
-  image: 5_b_1080px-by-834px.png
+  image: /assets/images/5_b_1080px-by-834px.png
   teaser: /assets/images/slimer.png
 
 gallery:
   - url: /assets/images/portfolio_images/fairyking.png
     image_path: /assets/images/portfolio_images/fairyking.png
     alt: "fairy king"
-  - url: /assets/images/portfolio_images/DNDMapp2022_Colored_50percent.png
-    image_path: /assets/images/portfolio_images/DNDMapp2022_Colored_50percent.png
+  - url: /assets/images/portfolio_images/DNDMap2022_Colored_50percent.png
+    image_path: /assets/images/portfolio_images/DNDMap2022_Colored_50percent.png
     alt: "fantasy map"
   - url: /assets/images/portfolio_images/Kit_Chapbook.jpg
     image_path: /assets/images/portfolio_images/Kit_Chapbook.jpg
@@ -28,9 +28,20 @@ gallery:
   - url: /assets/images/portfolio_images/WritersAidCover.png
     image_path: /assets/images/portfolio_images/WritersAidCover.png
     alt: "writer's aid ad"
----
-## Testing out the ole' thing-a-ma-bob
-Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store!](https://www.etsy.com/shop/headlessmanhorse)**
+  - url: /assets/images/portfolio_images/red_sands_logos-red.png
+    image_path: /assets/images/portfolio_images/red_sands_logos-red.png
+    alt: "Red Sands Logo"
+      - url: /assets/images/portfolio_images/1.png
+    image_path: /assets/images/portfolio_images/1.png
+    alt: "1"
+  - url: /assets/images/portfolio_images/2_a.png
+    image_path: /assets/images/portfolio_images/2_a.png
+    alt: "2_a"
 
-{% include gallery caption = "This is a sample gallery to go along with this case study." %}
+  
+---
+## Welcome to the Portfolio Lounge
+Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store!](https://www.etsy.com/shop/headlessmanhorse)**. 
+
+{% include gallery caption = "This is a sampler of the work I do, and is not all-inclusive. I'm probably working on something I haven't posted yet..." %}
 
