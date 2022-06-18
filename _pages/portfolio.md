@@ -37,5 +37,5 @@ gallery:
 
 Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store!](https://www.etsy.com/shop/headlessmanhorse)**
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption = "This is a sample gallery to go along with this case study." %}
 
