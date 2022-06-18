@@ -31,14 +31,37 @@ gallery:
   - url: /assets/images/portfolio_images/red_sands_logos-red.png
     image_path: /assets/images/portfolio_images/red_sands_logos-red.png
     alt: "Red Sands Logo"
-      - url: /assets/images/portfolio_images/1.png
+  - url: /assets/images/portfolio_images/1.png
     image_path: /assets/images/portfolio_images/1.png
     alt: "1"
   - url: /assets/images/portfolio_images/2_a.png
     image_path: /assets/images/portfolio_images/2_a.png
     alt: "2_a"
+  - url: /assets/images/portfolio_images/2_c.png
+    image_path: /assets/images/portfolio_images/2_c.png
+    alt: "2_c"
+  - url: /assets/images/portfolio_images/2_d.png
+    image_path: /assets/images/portfolio_images/2_d.png
+    alt: "2_d"
+  - url: /assets/images/portfolio_images/6_C.png
+    image_path: /assets/images/portfolio_images/6_C.png
+    alt: "6_C"
+  - url: /assets/images/portfolio_images/7_b.png
+    image_path: /assets/images/portfolio_images/7_b.png
+    alt: "7_b"
+  - url: /assets/images/portfolio_images/10.png
+    image_path: /assets/images/portfolio_images/10.png
+    alt: "10"
+  - url: /assets/images/portfolio_images/11_b.png
+    image_path: /assets/images/portfolio_images/11_b.png
+    alt: "11_b"
+  - url: /assets/images/portfolio_images/11_d.png
+    image_path: /assets/images/portfolio_images/11_d.png
+    alt: "11_d"
+  - url: /assets/images/portfolio_images/11.png
+    image_path: /assets/images/portfolio_images/11.png
+    alt: "11"  
 
-  
 ---
 ## Welcome to the Portfolio Lounge
 Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store!](https://www.etsy.com/shop/headlessmanhorse)**. 
