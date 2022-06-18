@@ -1,4 +1,5 @@
 ---
+permalink: /portfolio/
 title: "The Portfolio"
 excerpt: "But for what?"
 header:
