@@ -37,12 +37,9 @@ gallery:
   - url: /assets/images/portfolio_images/13.png
     image_path: /assets/images/portfolio_images/13.png
     alt: "13"
-  - url: /assets/images/portfolio_images/2_d.png
-    image_path: /assets/images/portfolio_images/3.png
+  - url: /assets/images/3_actiontest.png
+    image_path: /assets/images/3_actiontest.png
     alt: "3"
-  - url: /assets/images/portfolio_images/6.png
-    image_path: /assets/images/portfolio_images/6_C.png
-    alt: "6"
   - url: /assets/images/portfolio_images/7_b.png
     image_path: /assets/images/portfolio_images/7_b.png
     alt: "7_b"
