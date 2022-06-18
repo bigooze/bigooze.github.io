@@ -4,13 +4,7 @@ excerpt: "But for what?"
 header:
   image: 5_b_1080px-by-834px.png
   teaser: /assets/images/slimer.png
-sidebar:
-  - title: "ooze"
-    image: /assets/images/slimer.png
-    image_alt: "logo"
-    text: "here I am"
-  - title: "things I do"
-    text: "art, writing, design, etc. Please enjoy."
+
 gallery:
   - url: /assets/images/portfolio_images/fairyking.png
     image_path: /assets/images/portfolio_images/fairyking.png
@@ -34,7 +28,7 @@ gallery:
     image_path: /assets/images/portfolio_images/WritersAidCover.png
     alt: "writer's aid ad"
 ---
-
+## Testing out the ole' thing-a-ma-bob
 Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store!](https://www.etsy.com/shop/headlessmanhorse)**
 
 {% include gallery caption = "This is a sample gallery to go along with this case study." %}
