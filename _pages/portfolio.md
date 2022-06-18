@@ -37,19 +37,21 @@ gallery:
   - url: /assets/images/portfolio_images/13.png
     image_path: /assets/images/portfolio_images/13.png
     alt: "13"
-  - url: /assets/images/3_actiontest.png
-    image_path: /assets/images/3_actiontest.png
+  - url: /assets/images/portfolio_images/3.png
+    image_path: /assets/images/portfolio_images/3.png
     alt: "3"
-  - url: /assets/images/portfolio_images/7_b.png
-    image_path: /assets/images/portfolio_images/7_b.png
-    alt: "7_b"
-  - url: /assets/images/portfolio_images/10.png
-    image_path: /assets/images/portfolio_images/10.png
-    alt: "10"
   - url: /assets/images/portfolio_images/11_b.png
     image_path: /assets/images/portfolio_images/11_b.png
     alt: "11_b"
-
+  - url: /assets/images/Fun_.png
+    image_path: /assets/images/Fun_.png
+    alt: "Fun_"
+  - url: /assets/images/3_actiontest.png
+    image_path: /assets/images/3_actiontest.png
+    alt: "3_actiontest"
+  - url: /assets/images/nokia_216px_x_216px.png
+    image_path: /assets/images/nokia_216px_x_216px.png
+    alt: "nokia_216px_x_216px"
 
 ---
 ## Welcome to the Portfolio Lounge

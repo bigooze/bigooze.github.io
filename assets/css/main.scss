@@ -1,0 +1,10 @@
+.thumbnail-container {
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.thumbnail-container img {
+    margin-top: -25%;
+    margin-bottom: -25%;
+}
