@@ -3,7 +3,7 @@ permalink: /portfolio/
 title: "The Portfolio"
 excerpt: "But for what?"
 header:
-  image: /assets/images/5_b_1080px-by-834px.png
+  image: /assets/images/portfolio_images/1.png
   teaser: /assets/images/slimer.png
 
 gallery:
@@ -31,9 +31,6 @@ gallery:
   - url: /assets/images/portfolio_images/red_sands_logos-red.png
     image_path: /assets/images/portfolio_images/red_sands_logos-red.png
     alt: "Red Sands Logo"
-  - url: /assets/images/portfolio_images/1.png
-    image_path: /assets/images/portfolio_images/1.png
-    alt: "1"
   - url: /assets/images/portfolio_images/2_a.png
     image_path: /assets/images/portfolio_images/2_a.png
     alt: "2_a"
@@ -41,11 +38,11 @@ gallery:
     image_path: /assets/images/portfolio_images/2_c.png
     alt: "2_c"
   - url: /assets/images/portfolio_images/2_d.png
-    image_path: /assets/images/portfolio_images/2_d.png
-    alt: "2_d"
-  - url: /assets/images/portfolio_images/6_C.png
+    image_path: /assets/images/portfolio_images/3.png
+    alt: "3"
+  - url: /assets/images/portfolio_images/6.png
     image_path: /assets/images/portfolio_images/6_C.png
-    alt: "6_C"
+    alt: "6"
   - url: /assets/images/portfolio_images/7_b.png
     image_path: /assets/images/portfolio_images/7_b.png
     alt: "7_b"
@@ -55,12 +52,7 @@ gallery:
   - url: /assets/images/portfolio_images/11_b.png
     image_path: /assets/images/portfolio_images/11_b.png
     alt: "11_b"
-  - url: /assets/images/portfolio_images/11_d.png
-    image_path: /assets/images/portfolio_images/11_d.png
-    alt: "11_d"
-  - url: /assets/images/portfolio_images/11.png
-    image_path: /assets/images/portfolio_images/11.png
-    alt: "11"  
+
 
 ---
 ## Welcome to the Portfolio Lounge
