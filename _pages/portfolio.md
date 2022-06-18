@@ -34,9 +34,9 @@ gallery:
   - url: /assets/images/portfolio_images/2_a.png
     image_path: /assets/images/portfolio_images/2_a.png
     alt: "2_a"
-  - url: /assets/images/portfolio_images/2_c.png
-    image_path: /assets/images/portfolio_images/2_c.png
-    alt: "2_c"
+  - url: /assets/images/portfolio_images/13.png
+    image_path: /assets/images/portfolio_images/13.png
+    alt: "13"
   - url: /assets/images/portfolio_images/2_d.png
     image_path: /assets/images/portfolio_images/3.png
     alt: "3"
