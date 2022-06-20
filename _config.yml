@@ -101,7 +101,7 @@ defaults:
       share: false
       related: true
       header:
-        teaser: /assets/images/portfolio_images/3_low.jpg
+        teaser: /assets/images/venus_small.jpg
         
   # _pages
   - scope:
