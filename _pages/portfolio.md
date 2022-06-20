@@ -3,9 +3,7 @@ permalink: /portfolio/
 title: "The Portfolio"
 excerpt: "But for what?"
 header:
-  image: /assets/images/portfolio_images/goblinfire.jpg
-  teaser: /assets/images/slimer.png
-
+ 
 gallery:
   - url: /assets/images/portfolio_images/fairyking_low.jpg
     image_path: /assets/images/portfolio_images/fairyking_low.jpg
