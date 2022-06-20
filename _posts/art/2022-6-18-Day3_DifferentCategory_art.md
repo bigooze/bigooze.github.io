@@ -8,7 +8,10 @@ tags:
   - test
   - art
   - random
-
+header: 
+  overlay_filter: 
+  linear-gradient: blue, green
+teaser: /assets/images/portfolio_images/Fun_.jpg
 
 
 ---

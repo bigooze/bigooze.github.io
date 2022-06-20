@@ -71,12 +71,13 @@ author:
       icon: "/assets/images/red_sands_logos-red.png"
       url: "https://www.meetup.com/redsands/"
 
-
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+
+
 
 collections:
   portfolio:
@@ -99,6 +100,8 @@ defaults:
       comments: false
       share: false
       related: true
+      header:
+        teaser: /assets/images/portfolio_images/3_low.jpg
         
   # _pages
   - scope:
@@ -127,5 +130,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-teaser: /assets/images/portfolio_images/Fun_copy.jpg
