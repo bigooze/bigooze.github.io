@@ -1,9 +1,7 @@
 ---
 permalink: /portfolio/
-title: "The Portfolio"
-excerpt: "But for what?"
-header:
- 
+title: "The Portfolio Lounge"
+excerpt: "Welcome to the Portfolio Lounge"
 gallery:
   - url: /assets/images/portfolio_images/fairyking_low.jpg
     image_path: /assets/images/portfolio_images/fairyking_low.jpg
@@ -20,46 +18,46 @@ gallery:
   - url: /assets/images/portfolio_images/2_c_low.jpg
     image_path: /assets/images/portfolio_images/2_c_low.jpg
     alt: "2c"
-    - url: /assets/images/portfolio_images/2_d_low.jpg
+  - url: /assets/images/portfolio_images/2_d_low.jpg
     image_path: /assets/images/portfolio_images/2_d_low.jpg
     alt: "2d"
-    - url: /assets/images/portfolio_images/3_low.jpg
+  - url: /assets/images/portfolio_images/3_low.jpg
     image_path: /assets/images/portfolio_images/3_low.jpg
     alt: "3"
-    - url: /assets/images/portfolio_images/6_c_low.jpg
+  - url: /assets/images/portfolio_images/6_c_low.jpg
     image_path: /assets/images/portfolio_images/6_c_low.jpg
     alt: "6_c"
-    - url: /assets/images/portfolio_images/10_low.jpg
+  - url: /assets/images/portfolio_images/10_low.jpg
     image_path: /assets/images/portfolio_images/10_low.jpg
     alt: "10"
-    - url: /assets/images/portfolio_images/11_b_low.jpg
+  - url: /assets/images/portfolio_images/11_b_low.jpg
     image_path: /assets/images/portfolio_images/11_b_low.jpg
     alt: "11_b"
-    - url: /assets/images/portfolio_images/bookmark1.jpg
+  - url: /assets/images/portfolio_images/bookmark1.jpg
     image_path: /assets/images/portfolio_images/bookmark1.jpg
     alt: "front of book mark design for Paper Street Books, a bookseller"
-    - url: /assets/images/portfolio_images/bookmark2.jpg
+  - url: /assets/images/portfolio_images/bookmark2.jpg
     image_path: /assets/images/portfolio_images/bookmark2.jpg
     alt: "back of book mark design for Paper Street Books"
-    - url: /assets/images/portfolio_images/clown.jpg
+  - url: /assets/images/portfolio_images/clown.jpg
     image_path: /assets/images/portfolio_images/clown.jpg
     alt: "stylized clown"
-    - url: /assets/images/portfolio_images/kit_low.jpg
+  - url: /assets/images/portfolio_images/kit_low.jpg
     image_path: /assets/images/portfolio_images/kit_low.jpg
     alt: "book cover design"
-    - url: /assets/images/portfolio_images/map_colored_low.jpg
+  - url: /assets/images/portfolio_images/map_colored_low.jpg
     image_path: /assets/images/portfolio_images/map_colored_low.jpg
     alt: "fantasy map"
-    - url: /assets/images/portfolio_images/randy_low.jpg
+  - url: /assets/images/portfolio_images/randy_low.jpg
     image_path: /assets/images/portfolio_images/randy_low.jpg
     alt: "book cover design 2"
-    - url: /assets/images/portfolio_images/rs_logo.jpg
+  - url: /assets/images/portfolio_images/rs_logo.jpg
     image_path: /assets/images/portfolio_images/rs_logo.jpg
     alt: "logo for Red Sands, a writer's group"
-    - url: /assets/images/portfolio_images/trike.jpg
+  - url: /assets/images/portfolio_images/trike.jpg
     image_path: /assets/images/portfolio_images/trike.jpg
     alt: "Sticker design of Jigsaw on a tricycle"
-    - url: /assets/images/portfolio_images/WritersAidCover copy.jpg
+  - url: /assets/images/portfolio_images/WritersAidCover copy.jpg
     image_path: /assets/images/portfolio_images/WritersAidCover copy.jpg
     alt: "cover image for etsy listing of writer's worksheets"
 

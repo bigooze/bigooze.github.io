@@ -72,7 +72,6 @@ author:
       url: "https://www.meetup.com/redsands/"
 
 
-
 footer:
   links:
     - label: "GitHub"
@@ -100,20 +99,7 @@ defaults:
       comments: false
       share: false
       related: true
-
-  - scope:
-      path: "art"
-      type: posts # a collection in your site, in plural form
-    values:
-      layout: "default"
-      header:
-        image: /assets/images/slimer.png
         
-  
-
-
-
-
   # _pages
   - scope:
       path: "_pages"
