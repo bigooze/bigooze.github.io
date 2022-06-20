@@ -9,7 +9,8 @@ tags:
   - standard
   - random
 header:
-  image: "/assets/images/nokia_216px_x_216px.png"
+  image: "/assets/images/nokia.jpg"
+  teaser: /assets/images/portfolio_images/1_low.jpg
 
 ---
 This is a test that never ends. We do it on and on my friends.
