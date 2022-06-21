@@ -38,3 +38,14 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+.thumbnail-container {
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.thumbnail-container img {
+    margin-top: -25%;
+    margin-bottom: -25%;
+}
