@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: bigooze
 minimal_mistakes_skin: "dark"
-masthead_title: "Blog & Portfolio & Etc."
+masthead_title: "ooze's blog & portfolio"
 search: true
 
 # Build settings
@@ -68,14 +68,21 @@ author:
       url: "https://github.com/"
     
     - label: "Red Sands Meetup"
-      icon: "/assets/images/red_sands_logos-red.png"
+      icon: "fab fa-fw fa-meetup"
       url: "https://www.meetup.com/redsands/"
+    - label: "Etsy Store> Headless Man-Horse"
+      icon: "fa fa-heart"
+      url: "https://www.etsy.com/shop/headlessmanhorse"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Etsy Store"
+      icon: "fa fa-heart"
+      url: "https://www.etsy.com/shop/headlessmanhorse"
+
 
 
 
@@ -103,7 +110,7 @@ defaults:
       share: false
       related: true
       header:
-        teaser: /assets/images/city_teaser.jpg
+        teaser: /assets/images/cog_big.jpg
         
   # _pages
   - scope:
@@ -132,3 +139,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+year_archive:
+  type: liquid
+  path: /year/
