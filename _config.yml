@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ooze x headless man-horse 
+title: Headless Rodeo 
 email: headlessmanhorse@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a portfolio and a space where I post writing and other random projects or wild ideas I get.
+  HQ of Headless Rodeo & Ooze's blog (that's me) & any other random stuff
 twitter_username: username
 github_username: bigooze
-minimal_mistakes_skin: "dark"
-masthead_title: "ooze's blog & portfolio"
+minimal_mistakes_skin: "sunrise"
+masthead_title: ""
 search: true
 
 # Build settings
