@@ -16,10 +16,10 @@
 title: Headless Rodeo 
 email: headlessmanhorse@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  HQ of Headless Rodeo & Ooze's blog (that's me) & any other random stuff
+  "HQ of Headless Rodeo & Ooze's blog (that's me) & any other random stuff"
 twitter_username: username
 github_username: bigooze
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "contrast"
 masthead_title: ""
 search: true
 
