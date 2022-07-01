@@ -1,10 +1,24 @@
-.thumbnail-container {
-    max-width: 100%;
-    overflow: hidden;
-    border-radius: 5px;
-    margin-bottom: 25px;
-}
-.thumbnail-container img {
-    margin-top: -25%;
-    margin-bottom: -75%;
-}
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// custom CSS here
+$global-font-family: 'cmu-typewriter';
+$header-font-family: 'cmu-typewriter';
+$caption-font-family: 'cmu-typewriter';
+
+@font-face {
+    font-family: "cmu-typewriter";
+    src: url("assets/fonts/cmu-typewriter/cmuntt.woff");
+  }
+
+p {
+    font-family: "cmu-typewriter";
+    font-weight: normal;
+    font-style: normal;
+ }
