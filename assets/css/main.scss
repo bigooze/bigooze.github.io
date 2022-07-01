@@ -8,17 +8,25 @@
 @import "minimal-mistakes"; // main partials
 
 // custom CSS here
-$global-font-family: 'monospaced';
-$header-font-family: 'monospaced';
-$caption-font-family: 'monospaced';
+$global-font-family: '';
+$header-font-family: monospace;
+$caption-font-family: monospace;
+$link-color: red;
+$paragraph-indent: 'true';
+
 
 @font-face {
-    font-family: "cmu-typewriter";
-    src: url("assets/fonts/cmu-typewriter/cmuntt.woff");
+    font-family: "TT";
+    src: url("/assets/css/assets/fonts/TT2020StyleE-Regular.woff2");
   }
 
   p {
-    font-family: 'TT2020E';
+    font-family: 'TT';
     font-weight: normal;
     font-style: normal;
+    text-indent: 2em;
  }
+
+
+
+
