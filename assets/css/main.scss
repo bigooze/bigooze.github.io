@@ -8,17 +8,17 @@
 @import "minimal-mistakes"; // main partials
 
 // custom CSS here
-$global-font-family: 'cmu-typewriter';
-$header-font-family: 'cmu-typewriter';
-$caption-font-family: 'cmu-typewriter';
+$global-font-family: 'monospaced';
+$header-font-family: 'monospaced';
+$caption-font-family: 'monospaced';
 
 @font-face {
     font-family: "cmu-typewriter";
     src: url("assets/fonts/cmu-typewriter/cmuntt.woff");
   }
 
-p {
-    font-family: "cmu-typewriter";
+  p {
+    font-family: 'TT2020E';
     font-weight: normal;
     font-style: normal;
  }
