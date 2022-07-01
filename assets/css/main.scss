@@ -8,11 +8,10 @@
 @import "minimal-mistakes"; // main partials
 
 // custom CSS here
-$global-font-family: '';
-$header-font-family: monospace;
-$caption-font-family: monospace;
-$link-color: red;
-$paragraph-indent: 'true';
+$global-font-family: 'TT';
+$header-font-family: 'TT';
+$caption-font-family: 'TT';
+
 
 
 @font-face {
@@ -24,7 +23,7 @@ $paragraph-indent: 'true';
     font-family: 'TT';
     font-weight: normal;
     font-style: normal;
-    text-indent: 2em;
+    
  }
 
 
