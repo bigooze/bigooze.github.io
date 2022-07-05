@@ -1,5 +1,5 @@
 ---
-title: "I got crabs in Gazetteer"
+title: "DND session prep: 'I got crabs in Gazetteer'"
 excerpt_separator: "<!--more-->"
 categories:
   - rpg
@@ -7,17 +7,23 @@ tags:
   - personal
   - rpg
   - Gazetteer
+  - blog
+  - dm
   - 
 excerpt: "Role Playing Games"
 header:
-  overlay_image:  /assets/images/woods_med.jpg
-  overlay_filter: rgba(20, 25, 50, 0.5)
-  teaser: "/assets/images/woods_med.jpg"
+  overlay_image: /assets/images/dnd/map_aule.png
+  overlay_filter: rgba(0, 25, 250, 0.5)
+  teaser: "/assets/images/dnd/map_aule.png"
 
 ---
 <body style="font-family: serif">
 
-# The Mystery at Gazetteer continues
+# note:
+Here's a sample of the DM prep I did for a session. Note that I didn't finish prepping the scenario. There's a lot that can happen with improv.  
+
+## The Mystery at Gazetteer continues...  
+
 >*Tadmark sent cleric to cure the "terrible fungal infestation" - Gazetteer oddly abandoned - Old church stairwell explored, seems to go down forever - Man-faced giant crabs - Cottie eaten - Tadmarkian cleric's bodyguard caught by man-faced crab - Timothee said, "Listen, we lied"*
 ## 1
 Dusk. Cold. Storm clouds are forming quickly on the horizon. The scene ended with the cleric on Gazetteer, alone, desperately grasping Timothee's clothes and begging for help. Timothee said, "Listen, we lied."

@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# leave empty
 ---
 
 @charset "utf-8";
@@ -9,8 +9,8 @@
 
 // custom CSS here
 $global-font-family: 'TT', Courier, monospace;
-$header-font-family: 'TT';
-$caption-font-family: 'TT';
+$header-font-family: 'Courier New', Courier, monospace;
+$caption-font-family: 'Courier New', Courier, monospace;
 
 
 
@@ -20,12 +20,17 @@ $caption-font-family: 'TT';
   }
 
 p {
-    font-family: 'TT';
+    font-family: 'TT', Courier, monospace;
     font-weight: normal;
     font-style: normal;
     
  }
 
+h1, h2, h3 { 
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 
