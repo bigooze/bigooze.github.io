@@ -73,7 +73,7 @@ author:
       url: "https://www.meetup.com/redsands/"
     - label: "Etsy Store> Headless Man-Horse"
       icon: "fa fa-heart"
-      url: "https://www.etsy.com/shop/headlessmanhorse"
+      url: "https://www.etsy.com/shop/headlessrodeo"
 
 footer:
   links:
@@ -82,7 +82,7 @@ footer:
       url: "https://github.com/"
     - label: "Etsy Store"
       icon: "fa fa-heart"
-      url: "https://www.etsy.com/shop/headlessmanhorse"
+      url: "https://www.etsy.com/shop/headlessrodeo"
 
 
 
