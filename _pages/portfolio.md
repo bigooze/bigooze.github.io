@@ -3,7 +3,7 @@ permalink: /portfolio/
 title: "*The Portfolio Lounge*"
 header:
     overlay_image: /assets/images/horses.jpg
-    overlay_filter: linear-gradient(to right, rgba(50, 10, 50, .7), rgba(0, 40, 40,.1))
+    overlay_filter: linear-gradient(to right, rgba(50, 10, 10, .7), rgba(0, 40, 40,.1))
 author_profile: true
 gallery:
   - url: /assets/images/portfolio_images/1_low.jpg

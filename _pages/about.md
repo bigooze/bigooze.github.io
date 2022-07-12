@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-    overlay_image: /assets/images/guy_teaser.jpg
-    overlay_filter: linear-gradient(to right, rgba(10,10,10,.2), rgba(0, 0, 1,0))
+    overlay_image: /assets/images/cactus.jpg
+    overlay_filter: linear-gradient(to right, rgba(10,40,10,.2), rgba(0, 0, 1,0))
 ---
 
 My name is Ooze. I have a human legal name as well. This is my website. I'm an artist, designer, illustrator, writer, living in Phoenix. I don't have social media. Feel free to contact me at headlessooze `[at]` protonmail `[d0t]` c0m. 
