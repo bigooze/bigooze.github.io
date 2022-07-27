@@ -46,7 +46,7 @@ gallery:
 ---
 ## Feel free to hang out and look around.
 
-Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store, if you'd like!](https://www.etsy.com/shop/headlessmanhorse)** This is just a sampler of the work I do, and is not all-inclusive. I'm probably working on something I haven't posted yet...
+Design, illustration, stickers, zines, writing, and any other project I get into my head. This website is a repository for essentially all of my creative work. **[Check out my etsy store, if you'd like!](https://www.etsy.com/shop/headlessrodeo)** This is just a sampler of the work I do, and is not all-inclusive. I'm probably working on something I haven't posted yet...
 
-{% include gallery class="half" caption = "email inquiries to headlessmanhorse `[at]` g mail `[d0t]` `[c0m]`" %}
+{% include gallery class="half" caption = "email inquiries to headlessooze `[at]` protonmail `[d0t]` `[c0m]`" %}
 
