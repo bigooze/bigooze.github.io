@@ -91,10 +91,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  art:
+  stickers:
     output: true
-  journal:
-    output: true
+
 
 defaults:
   # _posts
