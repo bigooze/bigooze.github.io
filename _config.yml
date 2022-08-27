@@ -129,7 +129,14 @@ defaults:
       author_profile: false
       share: true
 
-
+# _stickers
+  - scope:
+      path: ""
+      type: grid
+    values:
+      layout: single
+      author_profile: false
+      share: true
 search: true
 
 category_archive:

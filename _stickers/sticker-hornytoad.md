@@ -14,9 +14,7 @@ tags:
 header: 
   overlay_filter: 
   linear-gradient: blue, green
-teaser: /assets/images/stickers_images/hornytoad.png
-
-
+teaser: "/assets/images/stickers_images/hornytoad.png"
 ---
-This is a horny toad sticker I made. Please enjoy carefully. 
+This is a horny toad sticker I made. Please enjoy carefully.  
 ![](../assets/images/stickers_images/hornytoad.png)
