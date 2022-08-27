@@ -3,7 +3,11 @@ main:
     url: /new/
   - title: "posts by category"
     url: /categories/
-  - title: "portfolio"
+  - title: "stickers"
+    url: /stickers/
+  - title: "zines"
+    url: /zines/
+  - title: "design"
     url: /portfolio/
   - title: "about"
     url: /about/

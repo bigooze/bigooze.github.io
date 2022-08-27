@@ -14,7 +14,7 @@ tags:
 header: 
   overlay_filter: 
   linear-gradient: blue, green
-teaser: /assets/images/stickers_images/sawtrike.png
+teaser: "/assets/images/stickers_images/sawtrike.png"
 
 
 ---
