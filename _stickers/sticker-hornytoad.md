@@ -17,4 +17,5 @@ header:
 teaser: "/assets/images/stickers_images/hornytoad.png"
 ---
 This is a horny toad sticker I made. Please enjoy carefully.  
+
 ![](../assets/images/stickers_images/hornytoad.png)

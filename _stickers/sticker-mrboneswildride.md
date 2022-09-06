@@ -19,4 +19,5 @@ I WANT TO GET OFF MR. BONES WILD RIDE
 I WANT TO GET OFF MR. BONES WILD RIDE  
 I WANT TO GET OFF MR. BONES WILD RIDE  
 I WANT TO GET OFF MR. BONES WILD RIDE  
-![](../assets/images/stickers_images/mrboneswildride)
+
+![](../assets/images/stickers_images/mrboneswildride.png)

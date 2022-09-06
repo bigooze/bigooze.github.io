@@ -18,5 +18,6 @@ teaser: "/assets/images/stickers_images/sawtrike.png"
 
 
 ---
-I feel that this design is self explanatory. It is the character Jigsaw on a tricycle. It is a sticker I made. Please enjoy carefully. 
+I feel that this design is self explanatory. It is the character Jigsaw on a tricycle. It is a sticker I made. Please enjoy carefully.  
+
 ![](../assets/images/stickers_images/sawtrike.png)
