@@ -84,9 +84,6 @@ footer:
       icon: "fa fa-heart"
       url: "https://www.etsy.com/shop/headlessrodeo"
 
-
-
-
 collections:
   portfolio:
     output: true
@@ -94,7 +91,6 @@ collections:
   stickers:
     output: true
     permalink: /:collection/:path/
-
 
 defaults:
   # _posts
@@ -137,6 +133,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      related: true
       share: true
       
 search: true
