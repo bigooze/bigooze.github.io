@@ -93,6 +93,7 @@ collections:
     permalink: /:collection/:path/
   stickers:
     output: true
+    permalink: /:collection/:path/
 
 
 defaults:
@@ -137,6 +138,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      
 search: true
 
 category_archive:
