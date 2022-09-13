@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Headless Rodeo 
+title: HEADLESS RODEO
 email: headlessooze@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "HQ of Headless Rodeo & Ooze's blog (that's me) & any other random stuff"
@@ -91,6 +91,9 @@ collections:
   stickers:
     output: true
     permalink: /:collection/:path/
+  zines:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -135,7 +138,17 @@ defaults:
       author_profile: false
       related: true
       share: true
-      
+
+# _zines
+  - scope:
+      path: ""
+      type: grid
+    values:
+      layout: single
+      author_profile: false
+      related: true
+      share: true
+
 search: true
 
 category_archive:

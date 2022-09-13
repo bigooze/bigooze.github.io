@@ -2,7 +2,7 @@
 title: "THE RIDE NEVER ENDS"
 excerpt_separator: "<!--more-->"
 collection: stickers
-layout: sticker_collection
+layout: HR_collection
 categories:
   - Art
   - Design
