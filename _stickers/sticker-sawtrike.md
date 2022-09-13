@@ -2,7 +2,7 @@
 title: "Jigsaw on a Tricycle"
 excerpt_separator: "<!--more-->"
 collection: stickers
-layout: sticker_collection
+layout: HR_collection
 categories:
   - Art
   - Design
