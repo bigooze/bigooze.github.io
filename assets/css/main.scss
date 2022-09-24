@@ -20,17 +20,33 @@ $caption-font-family: 'Courier New', Courier, monospace;
   }
 
 p {
-    font-family: 'TT', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: normal;
     font-style: normal;
-    
+
+   
  }
 
 h1, h2, h3 { 
-  font-family: "Franklin Gothic", "Helvetica Inserat", "Arial Black", "sans serif";
+  font-family: 'TT', Courier, monospace;
   font-weight: normal;
   font-style: bold;
+
 }
 
+ul, ol {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+table, th, td {
+  border: 1px solid;
+  font-family: monospace;
+  font-weight: normal;
+  font-style: normal;
+
+}
 
 
