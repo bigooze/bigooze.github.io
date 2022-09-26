@@ -1,6 +1,7 @@
 ---
-title: "I Have No Mouth and I Must Zine: a record of my time as a craft vendor at PHX Zinefest 2022"
+title: "I Have Big Mouth and I Must Zine: My Experience at Zinefest 2022 as a vendor"
 excerpt_separator: "<!--more-->"
+last_modified_at: 2022-09-26T16:20:02-05:00
 categories:
   - Blog
   - Journal
@@ -18,7 +19,7 @@ tags:
   - craft fair
   - 
 
-excerpt: "What it was REALLY like to be a zinester in Phoenix at the end of the first quarter of the 21st century"
+excerpt: "Reflections and unsolicited advice for other Zinesters, artists, and vendors at cons or craft fairs. With an additional perspective from SPECIAL GUEST STAR **SHUT EYE PRESS**"
 header:
   overlay_image:  /assets/images/rodeo.jpg
   overlay_filter: rgba(150, 0, 150, 0.3)
@@ -30,6 +31,8 @@ header:
 I need a deadline to create artistic work efficiently. Without a deadline, without consequences, my efforts fizzle out and I lose interest in the primary project and pursue the next shiny thing. With a deadline, I get shit done. This is my most efficient workflow as an artist. This year's deadline for many projects was PHX Zinefest, Sunday 9-18-2022. I set this goal some months ago. I am proud to say that I finished all of my work on time. More than anything else, this was my goal.
 
 When I was researching what to do at zinefest, I looked for articles written by vendors at cons or craft fairs on what they did right and wrong. I found a few good ones, but decided I should write some version of my own. This post is partly journal, partly advice, mostly just my POV when it comes to this experience. Hopefully, you, dear reader, will either get a glimpse behind the curtain, or gain some tips for your upcoming booth.
+
+[Skip the Headless Rodeo stuff and take me to what Shut Eye Press wrote](#shut-eye-press)
 
 ## THE WORK, AND THE MONEY
 
@@ -69,19 +72,19 @@ I still think my time at zinefest was a success. I sold completely out of a titl
 
 ## WHAT I THINK I (and my tablemate) DID RIGHT, FROM THE VENDOR'S PERSPECTIVE
 
-I didn't have a ton of time to wander around for the sake of comparison. I know that I *could* have gone shopping; my wonderful wife was there and could cover for me, as well as my tablemate and trustworthy friend. But there was a regular stream of people checking out the table, and I was having fun talking to everyone and pitching my zines, making new friends with common interests. In my quick gander around the room, here's what I noticed that we were doing differently than other people. I want to point out that there were other all-star booths that were fucking slaying it and I was definitely not the top dog in the room or anything. This is just the stuff that I think contributed the most to our success.
+I didn't have a ton of time to wander around for the sake of comparison. I know that I *could* have gone shopping; my wonderful wife was there and could cover for me, as well as my tablemate and trustworthy friend. But there was a regular stream of people checking out the table, and I was having fun talking to everyone and pitching my zines, making new friends with common interests. In my quick gander around the room, here's what I noticed that we were doing differently than other people. I want to point out that there were other all-star booths that were fucking slaying it and I was definitely not the top dog in the room or anything. This is just the stuff that I think contributed the most to our success. While it is advice, it's not prescriptive! I'm not the zinester police. If you're showing up with a few zines and a card reader, that's a big success. Having your stuff done and showing up to the event is 95% of the battle. If you find this writing unhelpful, commit it to the flames.
 
 ### **Observation 1**: We looked the part. 
 My tablemate Shut Eye Press spent a lot of time crafting a brilliant tablecloth, and had eye catching table decorations along with their wares, and had professional-looking displays. I brought a bright orange jackolanter halloween tablecloth we bought, a bunch of strings of fairy lights, a 3-foot poseable skeleton decoration, and I made a big colorful posterboard sign with examples of my stickers. I spent a lot of time on the sign, for better or for worse, sketching things out and trying to make it look as professional as possible. My hand-lettering isn't terrible but it ain't professional, but I did my best.
 
 Point being, both my tablemate and I decorated our tables to the 9's, albeit with quite different aesthetics. Shut Eye Press looked really smart and slick and professional, Headless Rodeo looked more OTT carnie-core, but both of us stepped up our game and really looked legit and looked like we were taking it seriously.
 
-Both of us brought *a lot of stuff to sell* to completely fill our tablespace. At the start of the show, there was barely a square inch of our shared table that wasn't either decorated or populated with "product" for customers. I think this makes a difference... if you think about a retail setting, it looks better when the shelves look full than if they look like it's been cleaned out by zombie apocalypse preppers and there's one sad dented can of tuna left in the whole store.
+Both of us brought *a lot of stuff to sell* to completely fill our tablespace. At the start of the show, there was barely a square inch of our shared table that wasn't either decorated or populated with "product" for customers. I think this makes a difference... if you think about a retail setting, it looks better when the shelves look full than if they look like it's been cleaned out by zombie apocalypse preppers and there's one sad dented can of tuna left in the whole store for you and your grubby found family to quarrel over.
 
 ### **Observation 2:** We said hello, and broke the ice.
 We said 'Hi' to basically every single passerby. Generally speaking, people are shy or don't really know how to talk to complete strangers. Now add to that general shyness not wanting to be put in a position where they have pressure to buy anything just because they're looking. It seemed beneficial to find a way to break the ice with strangers in order to make it less awkward to approach your table and have a look or have a chat. 
 
-A few vendors weren't always engaging with people who passed by their booth, or if they did, they didn't seem to engage with people. They weren't serving face, maybe hoping that their stuff would sell itself (which works for some). But both of us (Shut Eye Press and Headless Rodeo) flexed our charisma muscles and came up with methods to draw people to us and break the ice, and remove the pressure to buy anything.  
+Both of us (Shut Eye Press and Headless Rodeo) flexed our charisma muscles and came up with methods to draw people to us and break the ice, and remove the pressure to buy anything.  
 
 Shut Eye Press had this brilliant idea of creating and bringing a stamp that said something along the lines of "zinefest 2022" & "shut eye press," and they brought some blank bookmarks they made so that anybody could come over and make a free bookmark. Every person who glanced toward their booth got an invitation to make a free bookmark. Even if they don't buy anything, the visitor has walked up to them, interacted with their table, and is leaving with a keepsake that has Shut Eye Press on it just in case they got curious to looked them up later. At least two people came to the table and said, "Oh yeah, I know you, I've bought your stuff before!" I can't imagine a better compliment as a vendor.  
 
@@ -132,7 +135,8 @@ We were seated right under the AC vent. If you were scantily dressed, you got co
 
 The organizers told us to bring snacks, so we brought some granola bars. The fest is only for 5 hours. We ate beforehand. I have a layer of fat that I keep for long winters. We should be good. But by hour three, I had plowed through the granola bars, ate some generous granola bars from the zinesters at the next table, and I was *still* starving. As it turns out, standing up and shaking hands and talking non-stop for a constant stream of people is exhausting and requires refueling.
 
-The organizers gave a great guide about all of the potential snares and physical challenges, and we even accounted for them and felt like we barely got by. There was no way of knowing that we'd be seated under the air vent. They said it was dim lighting, but how dim was dim? Hard to tell. Even with warnings, there were a lot of variables beyond anyone's control and there were hurdles waiting in the blind spot. 
+The organizers gave a great guide about all of the potential snares and physical challenges, and we even accounted for them and felt like we barely got by. There was no way of knowing that we'd be seated under the air vent. They said it was dim lighting, but how dim was dim? Hard to tell. Even with warnings, there were a lot of variables beyond anyone's control and there were hurdles waiting in the blind spot.  
+
 If you're doing something like this, **overpack**. Bring more product than you think you'll need to keep your table looking bountiful. If they say "hey, might want to bring lights," bring *five* lights and spare batteries. Bring clothing for different temperatures to change into if turns out the AC breaks, or if you're seated directly under. Bring more snacks than you think is possible for a human being to consume in the allotted time and watch yourself turn into something more than human to consume those snacks. BRING WATER. Make a long checklist for the day-of and run through it that morning to ensure you brought everything. If you need, bring a caddy or a dolly so you don't pull a back muscle the second you arrive before the event even starts. I'm really, really glad we packed for Murphy's Law. 
 
 ## Final and most important observation of what I did right: Listen to your fucking circle  
@@ -140,3 +144,24 @@ Basically all the successful things I did were suggestions from my friends or my
 
 ## GOOD LUCK
 I hope this information helps. It was good to review the event and put things into perspective. 
+
+# Shut Eye Press
+*(I sent a draft of this over to my homie SEP for review because I didn't want to misrepresent them, and this was their response. While I made edits based on their feedback, I am reposting their words in full for posterity)*
+
+Yo, I love all this processing and I appreciate you and you sharing it!!! It's really good. Thanks for being patient with me getting back, too.
+
+I think this is a really helpful and specific look into what worked and didn’t work for you, and people will really appreciate it—it was helpful to my thinking, for sure. It’s interesting that you calculate loss and profit solely based on zine fest income! (I think of it more in terms of what sold because the remaining inventory will roll over). Everything I have to say in agreement or response, is, of course, just my situation and set of priorities, so it shouldn’t necessarily sway where you’re headed (not that it would):
+
+For me, I didn’t sell a ton, but I also never do at zine fest—I just get that my aesthetic is not the right fit for it! I table for a number of reasons:
+* I love PHX zine fest, its organizers, and the attendees, and the tabling fee is worth it to me just to support a really great community event.
+* I’m invested in making letterpress feel accessible to people; I don’t want it to seem like an ancient or fine printing medium that can’t do weird zine-y things.
+* Any money is good money.
+* The deadline does help me get moving on projects.
+* It gets my face and name and contact info out there, so while a lot of people walk away from my table never having bought something, they may still pay for my services in the future, or follow me on insta, or refer people to me, or even just vaguely remember me so that when I cross their paths again, I seem that much more friendly and established in the community! 
+* Most people are going to look at my books and items for a split second, and not “get” what they are (so they walk right past), whereas an illustrated photocopied staple book is going to immediately register and also let them know what price range to expect. While I DO want to make some cheaper, faster zines where I can, I also know that I love crafts and special touches—it’s really hard for me to invest myself in making a straightforward book form. This is just what I do, I naturally spend soooooo much time and money and energy doing it, for better or for worse. And there are always a few people who DO get it, who love that I do something different even if it is more expensive. I like having my art appreciated even when they don’t buy; I totally get that a $10 purchase is a lot. I price my stuff as it is because of the materials and extensive labor that goes into it—I could go lower since I’m not focused on profit, but I don’t because I don’t want to wholly undercut the value of that kind of work.  
+
+Okay, so I say all this because I don’t expect to be one of the popular booths there, or to make anything close to a profit. I love that you closely examined so many factors in what makes a success, and I think anyone could benefit from the advice. I don’t have much feedback, only a caution about like 2 points in your blog piece that pointed out others who didn’t do the successful things we did with our tabling. By saying you/I/we did something that really worked, I think it already suggests that not everyone was doing it—specifically pointing to bad examples feels repetitive at best, and at worst could feel judgey or superior. Others have severe social anxiety, and/or may not have the luxury of all the free time that went into my shit, and I think it’s inspiring just to see someone at a sparsely decorated table representing their art. They could really benefit from your advice, and I’m sure more sales would be better! I guess my point is that all of what you wrote about is of course super valid and helpful, but my only caution would be with the examples of “what not to do” coming across as somewhat flippant. But then again, maybe that is the vibe you’re going for! I dunno. Maybe I’m too protective of my fellow precious art babies. take it, leave it, bop it.
+
+LOVE,
+
+(S.E.P.)
