@@ -25,6 +25,8 @@ header:
 ---
 # Design Postmortem
 
+https://www.dmsguild.com/product/417512/Whats-At-The-Bottom-Of-Lost-Gold-Lake?affiliate_id=1326379
+
 ## What I learned from designing a DND module “magazine” from scratch, completing every aspect of creation
 
 First of all, I’m quite proud. I really did create everything from scratch. I didn’t use a template or tools for the document layout, and I didn’t use any of the stock photos and stock illustrations that DMsguild provides on their website (which are in an out of date color profile and are unusable unless you update them). 
