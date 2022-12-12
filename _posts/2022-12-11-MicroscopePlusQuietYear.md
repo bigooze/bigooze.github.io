@@ -15,9 +15,9 @@ tags:
   - 
 excerpt: "Frankenstein-ing two great games together to accommodate 7 players and flesh out an RPG world, and we had fun doing it"
 header:
-  overlay_image:  /assets/images/cogs_teaser.jpg
+  overlay_image:  /assets/images/cog_big.jpg
   overlay_filter: rgba(0, 50, 50, 0.5)
-  teaser: /assets/images/cogs_teaser.jpg
+  teaser: /assets/images/cog_big.jpg
 
 
 ---
