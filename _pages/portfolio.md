@@ -1,9 +1,9 @@
 ---
 permalink: /portfolio/
-title: "*The Portfolio Lounge*"
+title: "portfolio"
 header:
-    overlay_image: /assets/images/horses.jpg
-    overlay_filter: linear-gradient(to right, rgba(120, 40, 0, 1), rgba(0, 0, 0,.1))
+    overlay_image: /assets/images/banner1.png
+    overlay_filter: linear-gradient(to right, rgba(200, 50, 00, 1),rgba(0, 0, 0, 0))
 author_profile: true
 gallery:
   - url: /assets/images/portfolio_images/1_low.jpg
