@@ -64,22 +64,18 @@ author:
   location: "Under a rock in Phoenix"
   links:
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    
     - label: "Red Sands Meetup"
       icon: "fab fa-fw fa-meetup"
       url: "https://www.meetup.com/redsands/"
     - label: "Etsy Store"
       icon: "fa fa-heart"
       url: "https://www.etsy.com/shop/headlessrodeo"
+      label: "Email Me at headlessooze [at] protonmail [d0t] com."
+      url: "mailto:headlessooze@protonmail.com"
+      icon: "fa fa-envelope"
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Etsy Store"
       icon: "fa fa-heart"
       url: "https://www.etsy.com/shop/headlessrodeo"

@@ -1,13 +1,7 @@
 main:
   - title: "feed"
     url: /new/
-  - title: "posts by category"
-    url: /categories/
-  - title: "stickers"
-    url: /stickers/
-  - title: "zines"
-    url: /zines/
-  - title: "design"
+  - title: "portfolio"
     url: /portfolio/
   - title: "about"
     url: /about/
