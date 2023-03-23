@@ -6,43 +6,75 @@ header:
     overlay_filter: linear-gradient(to right, rgba(200, 50, 00, 1),rgba(0, 0, 0, 0))
 author_profile: true
 gallery:
-  - url: /assets/images/portfolio_images/1_low.jpg
-    image_path: /assets/images/portfolio_images/1_low.jpg
-    alt: "1"
-  - url: /assets/images/portfolio_images/arcaneplanedock_low.jpg
-    image_path: /assets/images/portfolio_images/arcaneplanedock_low.jpg
-    alt: "arcanedock"
-  - url: /assets/images/portfolio_images/3_low.jpg
-    image_path: /assets/images/portfolio_images/3_low.jpg
-    alt: "3"
-  - url: /assets/images/portfolio_images/6_c_low.jpg
-    image_path: /assets/images/portfolio_images/6_c_low.jpg
-    alt: "6_c"
-  - url: /assets/images/portfolio_images/bookmark1.jpg
-    image_path: /assets/images/portfolio_images/bookmark1.jpg
-    alt: "front of book mark design for Paper Street Books, a bookseller"
-  - url: /assets/images/portfolio_images/clown.jpg
-    image_path: /assets/images/portfolio_images/clown.jpg
-    alt: "stylized clown"
-  - url: /assets/images/portfolio_images/kit_low.jpg
-    image_path: /assets/images/portfolio_images/kit_low.jpg
-    alt: "book cover design"
-  - url: /assets/images/portfolio_images/map_colored_low.jpg
-    image_path: /assets/images/portfolio_images/map_colored_low.jpg
-    alt: "fantasy map"
-  - url: /assets/images/portfolio_images/randy_low.jpg
-    image_path: /assets/images/portfolio_images/randy_low.jpg
-    alt: "book cover design 2"
-  - url: /assets/images/portfolio_images/rs_logo.jpg
+  - url: /assets/images/portfolio_images/sticker (1).jpg
+    image_path: /assets/images/portfolio_images/sticker (1).jpg
+    alt: "sticker design of cute purple slime monster"
+  - url: /assets/images/portfolio_images/sticker (2).png
+    image_path: /assets/images/portfolio_images/sticker (2).png
+    alt: "sticker design of green sewer monster"
+  - url: /assets/images/portfolio_images/sticker (3).png
+    image_path: /assets/images/portfolio_images/sticker (3).png
+    alt: "sticker design of horny toad shooting blood from eyes"
+  - url: /assets/images/portfolio_images/sticker (4).png
+    image_path: /assets/images/portfolio_images/sticker (4).png
+    alt: "sticker design of the 'jesus wept' scene from the movie Hellraiser"
+  - url: /assets/images/portfolio_images/sticker (5).png
+    image_path: /assets/images/portfolio_images/sticker (5).png
+    alt: "sticker design of Mr. Bone's Wild Ride Roller Coaster Tycoon meme"
+  - url: /assets/images/portfolio_images/sticker (6).png
+    image_path: /assets/images/portfolio_images/sticker (6).png
+    alt: "sticker design of Pennywise the Clown from the Stephen King story 'It'"
+  - url: /assets/images/portfolio_images/sticker (7).png
+    image_path: /assets/images/portfolio_images/sticker (7).png
+    alt: "sticker design of the Jigsaw puppet from the Saw movie universe, but the puppet is cute and rides a tricycle"
+  - url: /assets/images/portfolio_images/sticker (8).jpg
+    image_path: /assets/images/portfolio_images/sticker (8).png
+    alt: "sticker design of a long necked sharp toothed monster person"
+  - url: /assets/images/portfolio_images/sticker (9).png
+    image_path: /assets/images/portfolio_images/sticker (9).png
+    alt: "sticker design of 'learning is for suckers' seek insensitive podcast"
+  - url: /assets/images/portfolio_images/sticker (10).png
+    image_path: /assets/images/portfolio_images/sticker (10).png
+    alt: "sticker design of the phrase 'ACAB: All Clowns Are Beautiful' with rainbow images of famous horror movie clowns"
+  - url: /assets/images/portfolio_images/ill (1).jpg
+    image_path: /assets/images/portfolio_images/ill (1).jpg
+    alt: "illustration of dark fantasy landscape with flying squid"
+  - url: /assets/images/portfolio_images/ill (2).jpg
+    image_path: /assets/images/portfolio_images/ill (2).jpg
+    alt: "illustration of a fantasy character of a bird-like fairy king"
+  - url: /assets/images/portfolio_images/ill (3).jpg
+    image_path: /assets/images/portfolio_images/ill (3).jpg
+    alt: "illustration of a fantasy wizard gnome"
+  - url: /assets/images/portfolio_images/ill (4).jpg
+    image_path: /assets/images/portfolio_images/ill (4).jpg
+    alt: "illustration of a fantasy fairy character"
+  - url: /assets/images/portfolio_images/ill (5).jpg
+    image_path: /assets/images/portfolio_images/ill (5).jpg
+    alt: "illustration of goblin surrounded by fire"
+  - url: /assets/images/portfolio_images/ill (6).png
+    image_path: /assets/images/portfolio_images/ill (6).png
+    alt: "illustration of black and white scene of a monster living in a mirror"
+  - url: /assets/images/portfolio_images/ill (7).jpg
+    image_path: /assets/images/portfolio_images/ill (7).jpg
+    alt: "illustration of an aging vampire"
+  - url: /assets/images/portfolio_images/ill (8).jpg
+    image_path: /assets/images/portfolio_images/ill (8).jpg
+    alt: "illustration of fantasy scarecrow coming to life"
+  - url: /assets/images/portfolio_images/map (1).jpg
+    image_path: /assets/images/portfolio_images/map (2).jpg
+    alt: "illustration of fantasy map"
+    url: /assets/images/portfolio_images/map (2).png
+    image_path: /assets/images/portfolio_images/map (2).png
+    alt: "illustration of fantasy map"  
+    url: /assets/images/portfolio_images/zine (1).jpg
+    image_path: /assets/images/portfolio_images/zine (1).jpg
+    alt: "image of front page of a fanzine about the movie 'Nope'"
+    url: /assets/images/portfolio_images/zine (2).jpg
+    image_path: /assets/images/portfolio_images/zine (2).jpg
+    alt: "image of front page of a fanzine about the movie 'Romeo Must Die'"
+    url: /assets/images/portfolio_images/rs_logo.jpg
     image_path: /assets/images/portfolio_images/rs_logo.jpg
-    alt: "logo for Red Sands, a writer's group"
-  - url: /assets/images/portfolio_images/trike.jpg
-    image_path: /assets/images/portfolio_images/trike.jpg
-    alt: "Sticker design of Jigsaw on a tricycle"
-  - url: /assets/images/portfolio_images/WritersAidCover copy.jpg
-    image_path: /assets/images/portfolio_images/WritersAidCover copy.jpg
-    alt: "cover image for etsy listing of writer's worksheets"
-
+    alt: "logo of the writing group Red Sands"
 ---
 ## Feel free to hang out and look around.
 
