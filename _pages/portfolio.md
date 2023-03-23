@@ -66,15 +66,15 @@ gallery:
     url: /assets/images/portfolio_images/map (2).png
     image_path: /assets/images/portfolio_images/map (2).png
     alt: "illustration of fantasy map"  
+    alt: "image of front page of a fanzine about the movie 'Romeo Must Die'"
+    url: /assets/images/portfolio_images/rs_logo.jpg
+    image_path: /assets/images/portfolio_images/rs_logo.jpg
+    alt: "logo of the writing group Red Sands"
     url: /assets/images/portfolio_images/zine (1).jpg
     image_path: /assets/images/portfolio_images/zine (1).jpg
     alt: "image of front page of a fanzine about the movie 'Nope'"
     url: /assets/images/portfolio_images/zine (2).jpg
     image_path: /assets/images/portfolio_images/zine (2).jpg
-    alt: "image of front page of a fanzine about the movie 'Romeo Must Die'"
-    url: /assets/images/portfolio_images/rs_logo.jpg
-    image_path: /assets/images/portfolio_images/rs_logo.jpg
-    alt: "logo of the writing group Red Sands"
 ---
 ## Feel free to hang out and look around.
 

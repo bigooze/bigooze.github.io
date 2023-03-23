@@ -70,7 +70,7 @@ author:
     - label: "Etsy Store"
       icon: "fa fa-heart"
       url: "https://www.etsy.com/shop/headlessrodeo"
-      label: "Email Me at headlessooze [at] protonmail [d0t] com."
+      label: "Email Me"
       url: "mailto:headlessooze@protonmail.com"
       icon: "fa fa-envelope"
 
@@ -106,7 +106,7 @@ defaults:
       share: false
       related: true
       header:
-        teaser: /assets/images/horses.jpg
+        teaser: /assets/images/nokia.jpg
         
   # _pages
   - scope:
