@@ -48,9 +48,7 @@ gallery:
   - url: /assets/images/portfolio_images/ill (5).jpg
     image_path: /assets/images/portfolio_images/ill (5).jpg
     alt: "illustration of goblin surrounded by fire"
-  - url: /assets/images/portfolio_images/ill (6).png
-    image_path: /assets/images/portfolio_images/ill (6).png
-    alt: "illustration of black and white scene of a monster living in a mirror"
+
   - url: /assets/images/portfolio_images/ill (7).jpg
     image_path: /assets/images/portfolio_images/ill (7).jpg
     alt: "illustration of an aging vampire"
@@ -58,7 +56,7 @@ gallery:
     image_path: /assets/images/portfolio_images/ill (8).jpg
     alt: "illustration of fantasy scarecrow coming to life"
   - url: /assets/images/portfolio_images/map (1).jpg
-    image_path: /assets/images/portfolio_images/map (2).jpg
+    image_path: /assets/images/portfolio_images/map (1).jpg
     alt: "illustration of fantasy map"
     url: /assets/images/portfolio_images/map (2).png
     image_path: /assets/images/portfolio_images/map (2).png
