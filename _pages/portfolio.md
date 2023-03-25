@@ -33,6 +33,7 @@ gallery:
   - url: /assets/images/portfolio_images/sticker (10).png
     image_path: /assets/images/portfolio_images/sticker (10).png
     alt: "sticker design of the phrase 'ACAB: All Clowns Are Beautiful' with rainbow images of famous horror movie clowns"
+
   - url: /assets/images/portfolio_images/ill (1).jpg
     image_path: /assets/images/portfolio_images/ill (1).jpg
     alt: "illustration of dark fantasy landscape with flying squid"
@@ -48,25 +49,24 @@ gallery:
   - url: /assets/images/portfolio_images/ill (5).jpg
     image_path: /assets/images/portfolio_images/ill (5).jpg
     alt: "illustration of goblin surrounded by fire"
-
   - url: /assets/images/portfolio_images/ill (7).jpg
     image_path: /assets/images/portfolio_images/ill (7).jpg
     alt: "illustration of an aging vampire"
   - url: /assets/images/portfolio_images/ill (8).jpg
     image_path: /assets/images/portfolio_images/ill (8).jpg
     alt: "illustration of fantasy scarecrow coming to life"
-  - url: /assets/images/portfolio_images/map (1).jpg
-    image_path: /assets/images/portfolio_images/map (1).jpg
+
+    url: /assets/images/portfolio_images/map2_smaller.png
+    image_path: /assets/images/portfolio_images/map2_smaller.png
     alt: "illustration of fantasy map"
-    url: /assets/images/portfolio_images/map (2).png
-    image_path: /assets/images/portfolio_images/map (2).png
-    alt: "illustration of fantasy map"  
+
     url: "assets/images/zines_images/zine (1).jpg"
     image_path: "assets/images/zines_images/zine (1).jpg"
     alt: "image of front page of a fanzine about the movie 'Nope'"
     url: "assets/images/zines_images/zine (2).jpg"
     image_path: "assets/images/zines_images/zine (2).jpg"
     alt: "image of front page of a fanzine about the movie 'Romeo Must Die'"
+
     url: /assets/images/portfolio_images/rs_logo.jpg
     image_path: /assets/images/portfolio_images/rs_logo.jpg
     alt: "logo of the writing group Red Sands"
