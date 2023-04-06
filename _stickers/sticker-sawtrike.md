@@ -13,7 +13,8 @@ tags:
   - art
   - stickers
 picture: /assets/images/stickers_images/sawtrike.png 
-teaser: /assets/images/stickers_images/sawtrike.png
+header:
+  teaser: /assets/images/stickers_images/sawtrike.png
 
 
 ---
