@@ -12,6 +12,7 @@ tags:
   - horror
   - art
   - stickers
+  - test
 picture: /assets/images/stickers_images/hornytoad.png
 header:
   teaser: /assets/images/stickers_images/hornytoad.png
