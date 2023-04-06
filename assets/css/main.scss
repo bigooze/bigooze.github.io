@@ -1,12 +1,12 @@
 ---
-# leave empty
+
 ---
 
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "minimal-mistakes/archive";
+
 // custom CSS here
 $global-font-family: Calibri, 'Trebuchet MS', sans-serif;
 $header-font-family: 'TT', Courier, monospace;
@@ -17,35 +17,3 @@ $caption-font-family: 'Courier New', Courier, monospace;
     font-family: "TT";
     src: url("/assets/css/assets/fonts/TT2020StyleE-Regular.woff2");
   }
-
-p {
-    font-family: Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-
-   
- }
-
-h1, h2, h3 { 
-  font-family: 'TT', Courier, monospace;
-  font-weight: normal;
-  font-style: bold;
-
-}
-
-ul, ol {
-  font-family: Calibri, 'Trebuchet MS', sans-serif;
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-table, th, td {
-  border: 1px solid;
-  font-family: monospace;
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-

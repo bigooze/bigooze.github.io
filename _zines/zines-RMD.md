@@ -13,7 +13,8 @@ tags:
   - zine
   - writing
 picture: /assets/images/zines_images/RMD_Cover.jpg
-teaser: /assets/images/zines_images/RMD_Cover.jpg
+header:
+  teaser: /assets/images/zines_images/RMD_Cover.jpg
 ---
 ROMEO SURVIVES. A whole damn zine about the feature film ROMEO MUST DIE.  
 

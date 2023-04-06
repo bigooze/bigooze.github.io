@@ -223,7 +223,15 @@
       }
     }
   
-
+    .archive__item-teaser {
+      @include breakpoint($small) {
+        //max-height: 200px;
+      }
+  
+      @include breakpoint($medium) {
+        //max-height: 120px;
+      }
+    }
   }
   
   /*
@@ -449,7 +457,7 @@
   /* Place inside a single layout */
   
   .layout--single {
-      .feature__wrapper {
-          display: inline-block;
-      }
+    .feature__wrapper {
+      display: inline-block;
+    }
   }

@@ -1,9 +1,9 @@
 main:
   - title: "feed"
     url: /new/
-    title: "zines"
+  - title: "zines"
     url: /zines/
-    title: "stickers"
+  - title: "stickers"
     url: /stickers/
   - title: "portfolio"
     url: /portfolio/
