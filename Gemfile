@@ -18,4 +18,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "webrick"
   gem "jekyll-seo-tag"
+  gem "minimal-mistakes-jekyll"
 end

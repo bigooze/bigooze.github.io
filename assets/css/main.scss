@@ -6,12 +6,11 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
+@import "minimal-mistakes/archive";
 // custom CSS here
 $global-font-family: Calibri, 'Trebuchet MS', sans-serif;
 $header-font-family: 'TT', Courier, monospace;
 $caption-font-family: 'Courier New', Courier, monospace;
-
 
 
 @font-face {
