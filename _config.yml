@@ -25,7 +25,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Outputting
 permalink: /:categories/:title/
@@ -57,6 +58,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
+  
 
 author:
   name   : "ooze"
