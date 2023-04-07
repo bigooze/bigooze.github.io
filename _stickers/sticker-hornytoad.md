@@ -5,6 +5,7 @@ collection: stickers
 layout: HR_collection
 categories:
   - Art
+  - sticker
   - Design
 tags:
   - design
