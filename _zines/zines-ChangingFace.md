@@ -14,7 +14,8 @@ tags:
   - zine
   - collage
 picture: /assets/images/zines_images/ChangingFace_Cover.jpg
-teaser: /assets/images/zines_images/ChangingFace_Cover.jpg
+header:
+  teaser: /assets/images/zines_images/ChangingFace_Cover.jpg
 ---
 A Guide to Changing Your Face.  
 This is a horror collage zine made from clipping advertisements. Enjoy with caution. 

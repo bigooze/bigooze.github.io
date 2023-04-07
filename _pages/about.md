@@ -2,8 +2,10 @@
 permalink: /about/
 title: "About"
 author_profile: true
-header:
-    overlay_image: /assets/images/banner.png
+header: 
+    image: /assets/images/banner.png
+picture: /assets/images/banner.png
+hero: /assets/images/banner.png
 
 ---
 

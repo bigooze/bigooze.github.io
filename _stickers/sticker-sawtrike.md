@@ -12,10 +12,10 @@ tags:
   - toad
   - art
   - stickers
-picture: /assets/images/stickers_images/sawtrike.png 
+picture: /assets/images/stickers_images/saw.png 
 header:
-  teaser: /assets/images/stickers_images/sawtrike.png
+  teaser: /assets/images/stickers_images/saw.png
 
 
 ---
-I feel that this design is self explanatory. It is the character Jigsaw on a tricycle. It is a sticker I made. Please enjoy carefully.  
+Play Saw games, win Saw prizes. 

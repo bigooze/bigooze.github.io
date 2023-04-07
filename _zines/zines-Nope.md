@@ -12,8 +12,11 @@ tags:
   - zines
   - zine
   - writing
-picture: /assets/images/zines_images/Nope_Cover.jpg
-teaser: /assets/images/zines_images/Nope_Cover.jpg
+picture: /assets/images/zines_images/Nope_cover.jpg
+header: 
+  teaser: /assets/images/zines_images/Nope_cover.jpg
+  image: /assets/images/zines_images/Nope_header.jpg
+  
 ---
 welp... A whole damn zine about the feature film NOPE.  
 
