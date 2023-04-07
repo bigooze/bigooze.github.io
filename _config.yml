@@ -148,6 +148,15 @@ defaults:
       related: false
       share: true
 
+  # _about
+  - scope:
+      path: ""
+      type: single
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 search: true
 
 category_archive:
