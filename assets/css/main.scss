@@ -8,12 +8,26 @@
 @import "minimal-mistakes"; // main partials
 
 // custom CSS here
-$global-font-family: Calibri, 'Trebuchet MS', sans-serif;
-$header-font-family: 'TT', Courier, monospace;
-$caption-font-family: 'Courier New', Courier, monospace;
+$global-font-family: "Consolas", Courier, monospace;
 
+.image-container {
+  max-width: 75%;
+  height: auto;
+  text-align: center;
+}
+.image-container img {
+  max-width: 75%;
+  height: auto;
+  justify-content: center;
+  align-self: center;
+}
 
 @font-face {
     font-family: "TT";
     src: url("/assets/css/assets/fonts/TT2020StyleE-Regular.woff2");
+  }
+
+  p {
+    font-family: "Consolas", "Courier New", Courier, monospace;
+
   }
