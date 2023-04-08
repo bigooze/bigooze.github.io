@@ -1,5 +1,5 @@
 ---
-title: "ROMEO SURVIVES: Romeo Must Die fanzine"
+title: "Romeo Survives: A Whole Damn Zine about the movie Romeo Must Die"
 excerpt_separator: "<!--more-->"
 collection: zines
 layout: splash
@@ -8,14 +8,15 @@ categories:
   - Design
 tags:
   - design
+  - horror
   - movies
   - zines
   - zine
-  - writing
-picture: /assets/images/zines_images/RMD_cover.jpg
+  - collage
+picture: /assets/images/zines_images/rmd/RMD_cover.jpg
 header:
-  teaser: /assets/images/zines_images/RMD_cover.jpg
-  image: /assets/images/zines_images/RMD_header.jpg
+  image: /assets/images/zines_images/rmd/RMD_header.jpg
+  teaser: /assets/images/zines_images/rmd/RMD_cover.jpg
 ---
 ## ROMEO SURVIVES. A whole damn zine about the feature film ROMEO MUST DIE.  
 

@@ -1,5 +1,5 @@
 ---
-title: "welp: Nope fanzine"
+title: "welp: A Whole Damn Zine about the movie Nope"
 excerpt_separator: "<!--more-->"
 collection: zines
 layout: splash
@@ -8,14 +8,15 @@ categories:
   - Design
 tags:
   - design
+  - horror
   - movies
   - zines
   - zine
-  - writing
-picture: /assets/images/zines_images/Nope_cover.jpg
-header: 
-  image: /assets/images/zines_images/Nope_header.jpg
-  teaser: /assets/images/zines_images/Nope_cover.jpg
+  - collage
+picture: /assets/images/zines_images/nope/Nope_cover.jpg
+header:
+  image: /assets/images/zines_images/nope/Nope_header.jpg
+  teaser: /assets/images/zines_images/nope/Nope_cover.jpg
 ---
 ## welp... A whole damn zine about the feature film NOPE.  
 

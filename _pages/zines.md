@@ -3,7 +3,7 @@ title: Zines
 layout: collection
 permalink: /zines/
 collection: zines
-entries_layout: list
+entries_layout: grid
 author_profile: true
 classes: wide
 header:
