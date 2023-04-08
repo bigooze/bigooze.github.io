@@ -2,7 +2,7 @@
 title: "welp: Nope fanzine"
 excerpt_separator: "<!--more-->"
 collection: zines
-layout: splash
+layout: HR_collection
 categories:
   - Art
   - Design
