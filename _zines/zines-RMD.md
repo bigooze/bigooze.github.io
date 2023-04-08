@@ -12,6 +12,7 @@ tags:
   - zines
   - zine
   - writing
+picture: /assets/images/zines_images/RMD_cover.jpg
 header:
   teaser: /assets/images/zines_images/RMD_cover.jpg
   image: /assets/images/zines_images/RMD_header.jpg

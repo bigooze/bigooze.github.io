@@ -12,6 +12,7 @@ tags:
   - zines
   - zine
   - writing
+picture: /assets/images/zines_images/Nope_cover.jpg
 header: 
   image: /assets/images/zines_images/Nope_header.jpg
   teaser: /assets/images/zines_images/Nope_cover.jpg
