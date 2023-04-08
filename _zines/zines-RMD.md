@@ -2,7 +2,7 @@
 title: "ROMEO SURVIVES: Romeo Must Die fanzine"
 excerpt_separator: "<!--more-->"
 collection: zines
-layout: HR_collection
+layout: splash
 categories:
   - Art
   - Design

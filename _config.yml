@@ -141,7 +141,7 @@ defaults:
 # _zines
   - scope:
       path: ""
-      type: grid
+      type: single
     values:
       layout: single
       author_profile: true

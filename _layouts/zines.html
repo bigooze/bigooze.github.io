@@ -1,0 +1,10 @@
+---
+layout: archive
+---
+{% for zine in site.collections.zines %}
+  <div class="zine">
+    <h2>{{ zine.title }}</h2>
+    <img src="{{ zine.teaser }}" alt="{{ zine.title }} teaser">
+    <p>{{ zine.excerpt }}</p>
+  </div>
+{% endfor %}

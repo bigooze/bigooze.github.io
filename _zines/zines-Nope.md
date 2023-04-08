@@ -2,7 +2,7 @@
 title: "welp: Nope fanzine"
 excerpt_separator: "<!--more-->"
 collection: zines
-layout: HR_collection
+layout: splash
 categories:
   - Art
   - Design
@@ -12,19 +12,16 @@ tags:
   - zines
   - zine
   - writing
-picture: /assets/images/zines_images/Nope_Cover.jpg
-
 header: 
-  teaser: /assets/images/zines_images/Nope_cover.jpg
   image: /assets/images/zines_images/Nope_header.jpg
-
-  
+  teaser: /assets/images/zines_images/Nope_cover.jpg
 ---
 ## welp... A whole damn zine about the feature film NOPE.  
 
 <div class="image-container">
   <img src="/assets/images/zines_images/Nope_cover.jpg" alt="cover of the zine">
 </div>
+
 NOPE is my favorite movie by Jordan Peele. I am biased, because it feels as though the movie was made specifically for me; the fascination with amusement towns, obsession with aliens, the West, its sense of humor. The performances of the actors is fantastic, and the layered symbolism rewards persistent chewing.
 
 Much ink and much of Mr. Peele’s breath has been spent discussing “the spectacle,” a main theme if there ever was one. “All the themes and characters in the movie represent or interact with the media in some way,” whether that be the media swooping in on tragedy, glory seeking selfie stick idiots, or “Hollywood, the selling of dreams” of which Peele himself is a member. “Any time that you’re making money off of the human need to see something crazy, that to me is what I call spectaclization. I’m a guilty party.”
