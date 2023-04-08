@@ -2,7 +2,7 @@
 title: "A Guide to Changing Your Face: Collage Zine"
 excerpt_separator: "<!--more-->"
 collection: zines
-layout: HR_collection
+layout: splash
 categories:
   - Art
   - Design
@@ -15,6 +15,7 @@ tags:
   - collage
 picture: /assets/images/zines_images/ChangingFace_Cover.jpg
 header:
+  image: /assets/images/zines_images/ChangingFace_Cover.jpg
   teaser: /assets/images/zines_images/ChangingFace_Cover.jpg
 ---
 A Guide to Changing Your Face.  
