@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Headless Man-Horse->Headless Rodeo"
 excerpt_separator: "<!--more-->"
 categories:
@@ -14,9 +15,7 @@ tags:
   - ruby
 excerpt: "Yeeeeehawwwww"
 header:
-  overlay_image:  /assets/images/hornytoad_teaser.jpg
-  overlay_filter: rgba(250, 50, 50, 0.5)
-  teaser: "/assets/images/hornytoad_teaser.jpg"
+  teaser: /assets/images/blogpostblue.png
 
 ---
 

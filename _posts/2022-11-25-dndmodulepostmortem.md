@@ -20,8 +20,6 @@ header:
   overlay_image:  /assets/images/dnd/LGL.png
   teaser: /assets/images/dnd/LGL.png
   
-
-
 ---
 # Design Postmortem
 

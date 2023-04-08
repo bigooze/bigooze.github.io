@@ -1,7 +1,7 @@
 ---
 title: "new posts"
 permalink: /new/
-layout: feed_new
+layout: posts
 author_profile: true
 header:
     overlay_image: /assets/images/banner1.png

@@ -14,9 +14,8 @@ tags:
 
 excerpt: "30 DAYS OF FLASH FICTION"
 header:
-  overlay_image:  /assets/images/cog_teaser.jpg
   overlay_filter: rgba(0, 0, 0, 50.5)
-
+  teaser: /assets/images/blogpostgreen.png
 
 ---
 

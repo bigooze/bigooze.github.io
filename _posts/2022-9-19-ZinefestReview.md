@@ -21,9 +21,9 @@ tags:
 
 excerpt: "Reflections and unsolicited advice for other Zinesters, artists, and vendors at cons or craft fairs. With an additional perspective from SPECIAL GUEST STAR **SHUT EYE PRESS**"
 header:
-  overlay_image:  /assets/images/rodeo.jpg
-  overlay_filter: rgba(150, 0, 150, 0.3)
-  teaser: "/assets/images/horses.jpg"
+  overlay_image:  /assets/images/arizona.jpg
+  overlay_filter: rgba(150, 200, 50, 0.3)
+  teaser: "/assets/images/stickers_images/killscreensreadzines.png"
 
 ---
 ## WHAT I EXPECTED, WHAT I GOT

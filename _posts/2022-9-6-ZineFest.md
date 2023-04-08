@@ -16,9 +16,8 @@ tags:
 
 excerpt: "Gearing Up for the IRL Debut"
 header:
-  overlay_image:  /assets/images/rider_teaser.jpg
-  overlay_filter: rgba(150, 250, 0, 0.3)
-  teaser: "/assets/images/city_teaser.jpg"
+  overlay_image:  /assets/images/arizona.jpg
+  teaser: /assets/images/stickers_images/killscreensreadzines.png
 
 ---
 
