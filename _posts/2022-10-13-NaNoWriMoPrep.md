@@ -17,7 +17,7 @@ tags:
   - 
 excerpt: "embrace a fun challenge, fuck the rules"
 header:
-  overlay_image:  /assets/images/eye+med.jpg
+  teaser: /assets/images/blogpostblue.png
   
 
 

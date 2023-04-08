@@ -109,7 +109,7 @@ defaults:
       share: false
       related: true
       header:
-        teaser: /assets/images/pager.jpg
+        teaser: /assets/images/blogpost.png
         
   # _pages
   - scope:
