@@ -21,7 +21,7 @@ header:
 ## welp... A whole damn zine about the feature film NOPE.  
 
 <div class="image-container">
-  <img src="/assets/images/zines_images/Nope_cover.jpg" alt="cover of the zine">
+  <img src="/assets/images/zines_images/nope/Nope_cover.jpg" alt="cover of the zine">
 </div>
 
 NOPE is my favorite movie by Jordan Peele. I am biased, because it feels as though the movie was made specifically for me; the fascination with amusement towns, obsession with aliens, the West, its sense of humor. The performances of the actors is fantastic, and the layered symbolism rewards persistent chewing.

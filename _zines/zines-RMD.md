@@ -21,7 +21,7 @@ header:
 ## ROMEO SURVIVES. A whole damn zine about the feature film ROMEO MUST DIE.  
 
 <div class="image-container">
-  <img src="/assets/images/zines_images/RMD_cover.jpg" alt="cover of the zine">
+  <img src="/assets/images/zines_images/rmd/RMD_cover.jpg" alt="cover of the zine">
 </div>
 I know what you’re probably thinking. “Man, this movie is low key racist and embarrassing.” Well, buckaroo, I beg you to take a good long look in the mirror.
 
