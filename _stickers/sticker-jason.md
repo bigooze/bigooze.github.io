@@ -19,6 +19,6 @@ header:
   teaser: /assets/images/stickers_images/jason.png
 ---
 Sometimes you need a simple, round Jason mask sticker.
-
+<!--more-->
 https://www.etsy.com/listing/1452376562/mr-hockey-mask-sticker-horror-movie
 

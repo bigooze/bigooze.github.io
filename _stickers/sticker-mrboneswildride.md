@@ -16,7 +16,7 @@ header:
 ---
 I WANT TO GET OFF MR. BONES WILD RIDE  
 I WANT TO GET OFF MR. BONES WILD RIDE  
-I WANT TO GET OFF MR. BONES WILD RIDE  
+I WANT TO GET OFF MR. BONES WILD RIDE  <!--more-->
 <a href="https://knowyourmeme.com/memes/mr-bones-wild-ride">I WANT TO GET OFF MR. BONES WILD RIDE</a>  
 
 https://www.etsy.com/listing/1452377268/mr-bones-wild-ride-sticker-rct-meme

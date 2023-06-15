@@ -19,5 +19,5 @@ header:
   teaser: /assets/images/stickers_images/ACAB.png
 ---
 **A**LL **C**LOWNS **A**RE **B**EAUTIFUL
-
+<!--more-->
 https://www.etsy.com/listing/1449471420/acab-all-clowns-are-beautiful-sticker

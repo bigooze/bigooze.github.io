@@ -19,6 +19,6 @@ header:
   teaser: /assets/images/stickers_images/pennywise.png
 ---
 How do you not make a sticker out of the greatest forehead in horror movie history?  
-
+<!--more-->
 https://www.etsy.com/listing/1466582715/pennywise-sticker-clown-face-horror-meme
 

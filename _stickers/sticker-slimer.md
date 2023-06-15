@@ -19,6 +19,6 @@ header:
   teaser: /assets/images/stickers_images/slimer.png
 ---
 This is my avatar and a good representation of my soul. Please enjoy carefully.  
-
+<!--more-->
 https://www.etsy.com/listing/1452377950/purple-slime-boi-sticker-horror-spooky
 
