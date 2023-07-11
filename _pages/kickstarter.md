@@ -59,10 +59,6 @@ gallery:
 
 # Honor the stories that scared you.
 
-<video controls width="640" style= "float: right; padding: 15px;">
-   <source src="/assets/images/kickstarter/kickstarterpromo_final.mp4" type="video/mp4">
-</video>
-
 Help fund this series of scary, cautionary tales from many different cultures.
 A series of six designs featuring the *spookiest* folk we were told about as children in the form of **art prints and vinyl stickers.** I created a series of six designs of stories from around the world. They are all cousins in the same scary family... they want to be printed together as one project. And I need  your help. 
 The project will take the form of:
