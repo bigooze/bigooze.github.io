@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "HQ of Headless Rodeo & Ooze's blog (that's me) & any other random stuff"
 twitter_username: username
 github_username: bigooze
-minimal_mistakes_skin: "plum"
+minimal_mistakes_skin: "contrast"
 masthead_title: ""
 search: true
 
@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "ooze"
-  avatar : "/assets/images/slimer.png"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "started from the sewer now i'm here."
   location: "Under a rock in Phoenix"
   links:
