@@ -76,6 +76,9 @@ author:
       label: "Email Me"
       url: "mailto:headlessooze@protonmail.com"
       icon: "fa fa-envelope"
+    - label: "IG: headless.rodeo"
+      icon: "fa-instagram"
+      url: "https://www.instagram.com/headless.rodeo/"
 
 footer:
   links:
