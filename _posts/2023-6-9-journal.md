@@ -13,6 +13,7 @@ tags:
   - 
 excerpt: "Reflecting on personal style vendors at Phoenix Fan Fusion"
 header:
+  overlay_image: /assets/images/blogpostred.png
   teaser: /assets/images/blogpostred.png
 ---
 # Insp0
