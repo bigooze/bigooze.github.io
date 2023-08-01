@@ -6,7 +6,7 @@ header:
   overlay_image: "/assets/images/kickstarter/splash.png"
   actions:
     - label: "Bring them to life!!"
-      url: "https://KICKSTARTERLINKGOESHERE"
+      url: "https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints"
   caption: 
 excerpt: "Help out with my first kickstarter: **SCARY STORIES!**"
 intro: 
@@ -33,26 +33,26 @@ feature_row2:
     title: "Stretch Goal II: $1800 - Bonus Holo-foil sticker for every backer!"
     excerpt: "A super-secret-spooky-surprise design will be included for all backers, including Entry Level backer!"
 gallery:
-  - url: /assets/images/kickstarter/lallorona.jpg
+  - url: https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints
     image_path: /assets/images/kickstarter/lallorona.jpg
     alt: "la llorona"
     title: "La Llorona"
-  - url: /assets/images/kickstarter/thebigbadwolf.jpg
+  - url: https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints
     image_path: /assets/images/kickstarter/thebigbadwolf.jpg
     alt: "the big bad wolf"
     title: "The Big Bad Wolf"
-  - url: /assets/images/kickstarter/thebagman.jpg
+  - url: https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints
     image_path: /assets/images/kickstarter/thebagman.jpg
     alt: "The Bagman" 
-  - url: /assets/images/kickstarter/babayaga.jpg
+  - url: https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints
     image_path: /assets/images/kickstarter/babayaga.jpg
     alt: "baba yaga"
     title: "Krampus"
-  - url: /assets/images/kickstarter/krampus.jpg
+  - url: https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints
     image_path: /assets/images/kickstarter/krampus.jpg
     alt: "krampus"
     title: "The Night Hag"
-  - url: /assets/images/kickstarter/thenighthag.jpg
+  - url: https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints
     image_path: /assets/images/kickstarter/thenighthag.jpg
     alt: "The Night hag" 
 ---

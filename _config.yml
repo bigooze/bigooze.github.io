@@ -77,8 +77,11 @@ author:
       url: "mailto:headlessooze@protonmail.com"
       icon: "fa fa-envelope"
     - label: "IG: headless.rodeo"
-      icon: "fa-instagram"
+      icon: "fa-solid fa-eye">
       url: "https://www.instagram.com/headless.rodeo/"
+    - label: "KICKSTARTER"
+      icon: "fa-solid fa-k"
+      url: "https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints"
 
 footer:
   links:
