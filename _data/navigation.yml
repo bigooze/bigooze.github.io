@@ -1,4 +1,6 @@
 main:
+  - title: "KICKSTARTER"
+    url: /
   - title: "feed"
     url: /new/
   - title: "stickers"
@@ -9,5 +11,4 @@ main:
     url: /illustration/
   - title: "about"
     url: /about/
-    title: "KICKSTARTER"
-    url: /KICKSTARTER/
+

@@ -73,11 +73,11 @@ author:
     - label: "Etsy Store"
       icon: "fa fa-heart"
       url: "https://www.etsy.com/shop/headlessrodeo"
-      label: "Email Me"
+    - label: "Email Me"
       url: "mailto:headlessooze@protonmail.com"
       icon: "fa fa-envelope"
     - label: "IG: headless.rodeo"
-      icon: "fa-solid fa-eye">
+      icon: "fa-solid fa-eye"
       url: "https://www.instagram.com/headless.rodeo/"
     - label: "KICKSTARTER"
       icon: "fa-solid fa-k"
