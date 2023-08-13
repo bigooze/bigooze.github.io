@@ -16,7 +16,7 @@ feature_row:
     alt: "kickstarter goals"
     title: "Goals"
     excerpt: ''
-    url: "#test-link"
+    url: "https://www.kickstarter.com/projects/ooze/scary-stories-stickers-and-art-prints"
     btn_label: "Bring them forth!"
     btn_class: "btn--primary"
 feature_row2:
