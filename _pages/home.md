@@ -1,5 +1,5 @@
 ---
-permalink: /KICKSTARTER
+permalink: /
 title: "HELP!!!"
 layout: splash
 header:
